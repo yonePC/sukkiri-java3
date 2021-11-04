@@ -2,6 +2,11 @@ package code2_1;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println();
+		int a;
+		int b;
+		a = 20;
+		b = a + 5;
+		System.out.println(a);
+		System.out.println(b);
 	}
 }
