@@ -1,4 +1,4 @@
-package code4_7;
+package code4_07;
 
 public class Main {
 	public static void main(String[] arg) {
