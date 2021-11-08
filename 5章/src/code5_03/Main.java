@@ -1,4 +1,4 @@
-package code5_3;
+package code5_03;
 
 public class Main {
 	public static void methodA() {
